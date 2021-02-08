@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.712427ab.chunk.css",
+    "main.js": "./static/js/main.e1fcdc51.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.c21dc1cc.js",
+    "static/js/2.17dd1a74.chunk.js": "./static/js/2.17dd1a74.chunk.js",
+    "static/js/3.99b8dd29.chunk.js": "./static/js/3.99b8dd29.chunk.js",
+    "static/js/4.943e8e25.chunk.js": "./static/js/4.943e8e25.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.17dd1a74.chunk.js.LICENSE.txt": "./static/js/2.17dd1a74.chunk.js.LICENSE.txt",
+    "static/js/3.99b8dd29.chunk.js.LICENSE.txt": "./static/js/3.99b8dd29.chunk.js.LICENSE.txt",
+    "static/media/alipay.01e54d29.png": "./static/media/alipay.01e54d29.png",
+    "static/media/beep.822816e8.wav": "./static/media/beep.822816e8.wav",
+    "static/media/click.63538193.wav": "./static/media/click.63538193.wav",
+    "static/media/hint.9fd5c4fa.wav": "./static/media/hint.9fd5c4fa.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c21dc1cc.js",
+    "static/js/2.17dd1a74.chunk.js",
+    "static/css/main.712427ab.chunk.css",
+    "static/js/main.e1fcdc51.chunk.js"
+  ]
+}
